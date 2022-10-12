@@ -1,0 +1,16 @@
+object oreanted twitter analsyst
+
+class User
+ 	* propertie: hashtage
+
+ojects
+	* User account (username, password, email, profile picture)	
+	* Tweet(user's post) a collection of strings from users account
+
+	* text box to type comments / posts
+	* list of comments in post
+	* Post catagorys for posts
+Actions
+	* likeing / disliking posts
+	* likeing / disliking coments
+	* trending posts
