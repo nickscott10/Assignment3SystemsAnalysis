@@ -4,6 +4,9 @@ propertie
 	* password
 	* Username
 	* Hashtage
+	* who you fallow
+	* who fallows you
+	* location
 ojects
 	* User account (username, password, email, profile picture)	
 	* Tweet(user's post) a collection of strings from users account
@@ -16,3 +19,4 @@ Actions
 	* likeing / disliking coments
 	* trending posts
 	* user loging to websight
+	* retweet ()
