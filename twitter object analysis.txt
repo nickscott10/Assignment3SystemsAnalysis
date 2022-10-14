@@ -1,22 +1,63 @@
 object oreanted twitter analsyst
 
-propertie
+(object) User
+
+	Properties
 	* password
 	* Username
-	* Hashtage
-	* who you fallow
-	* who fallows you
-	* location
-ojects
-	* User account (username, password, email, profile picture)	
-	* Tweet(user's post) a collection of strings from users account
+	* Fallowers
+	* firstname
+	* lastname
+	* Location
+	* Join Date
+	* website
+	* Varified 
 	
-	* text box to type comments / posts
-	* list of comments in post
-	* hashtags are catagorys for posts
-Actions
-	* likeing / disliking posts
-	* likeing / disliking coments
-	* trending posts
-	* user loging to websight
-	* retweet ()
+	Actions
+	* likeing posts
+	* leave coments (on post)
+	* Login
+	* retweet
+	* Fallow account
+
+(object) Tweet
+
+	Properties
+	* Content (caracter lmmit 280)
+	* HashTag
+	* Mentions
+	* Images
+	* Videos
+	* is permoted Tweet?
+	* Polls
+	* Geo Tag (shows you tweet location)
+	
+	Actions
+	* Posting the tweet
+	* Edit tweet
+	* Delete tweet
+	* premoded tweet (advertisment)
+
+(object)Comment
+
+	Properties
+	* Content
+	* mentions
+	* Hashtage
+	
+	Actions
+	* Post 
+	* Reply to comment
+	* Edit comment
+	* Delete comment
+	
+(object)Notifataions
+
+	Properties
+	* Post Replys
+	* Post Retweets
+	* Account Fallows
+	* Post mentions
+	
+	Actons
+	* Notify user/ account
