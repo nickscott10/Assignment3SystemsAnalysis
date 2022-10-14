@@ -29,7 +29,6 @@ object oreanted twitter analsyst
 	* Images
 	* Videos
 	* is permoted Tweet?
-	* Polls
 	* Geo Tag (shows you tweet location)
 	
 	Actions
@@ -61,3 +60,7 @@ object oreanted twitter analsyst
 	
 	Actons
 	* Notify user/ account
+	
+(Object)Polls
+	properties
+	
